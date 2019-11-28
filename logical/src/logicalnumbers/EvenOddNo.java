@@ -12,7 +12,7 @@ public class EvenOddNo {
 		if(sc.nextInt() % 2==0) {
 			System.out.println("Even no");
 		}else {
-			System.out.println("Odd no");
+			System.out.println("Odd number");
 		}
 		
 	}
